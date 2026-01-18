@@ -18,7 +18,7 @@ The goal of this project is to:
 ---
 
 ### Dataset  
-The dataset contains 20,765 entries and 22 features, including:  
+The dataset contains 38,821 entries and 19 features, including:  
 - **id**: Unique identifier for each listing  
 - **name**: Title of the Airbnb listing  
 - **host_name**: Name of the host  
